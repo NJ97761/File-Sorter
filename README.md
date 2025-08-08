@@ -104,12 +104,5 @@ Contributions are welcome! If you have ideas for how to improve this script (lik
 4.  Push to the Branch (`git push origin feature/AddMoreFileTypes`)
 5.  Open a Pull Request
 
-## 📄 License
+emai- narendrasingh97761@gmail.com
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-## 📞 Contact
-
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/your_username/your_repository](https://github.com/your_username/your_repository)
